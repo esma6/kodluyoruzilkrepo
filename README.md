@@ -4,7 +4,8 @@ Bu repo [Kodluyoruz](https://courses.kodluyoruz.org/) Front-End Eğitiminde olu�
 ![resim](images/github.png)
 
 # Instalattion
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. 
+(Buraya sizin reponuzdan aldığınız link gelecek)
 `
 git clone https://github.com/esma6/kodluyoruzilkrepo.git
 `
@@ -15,7 +16,6 @@ Linux için:
 
 `
 cd kodluyoruzilkrepo code .
-
 `
 
 # Contributing
